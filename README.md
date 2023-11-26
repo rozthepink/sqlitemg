@@ -74,7 +74,7 @@ This README is intended for developers contributing to or working with the SQLit
 
 
 ## Contributing
-If you want to contribute to this project, then go ahead, there no restrictions.
+If you want to contribute to this project, then go ahead, there is no restrictions.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
